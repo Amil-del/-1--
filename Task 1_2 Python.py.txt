@@ -1,0 +1,12 @@
+#Создаем список из инициализатора на Python:
+my_list = [1, 2, 3, 4, 5]
+
+
+
+#Создадим стэк на Python:
+stack =
+stack.append('a')
+stack.append('b')
+stack.append('c')
+print(stack)
+
